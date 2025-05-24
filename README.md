@@ -1,4 +1,8 @@
-## Hi there 👋
+## Holi, Soy frix 👻
+
+
+---
+Me divierto programando y buscando proyectos interesantes.
 
 <!--
 **frix241/frix241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
